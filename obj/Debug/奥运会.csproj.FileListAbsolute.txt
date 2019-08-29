@@ -1,0 +1,10 @@
+C:\Users\sfx\Desktop\数据结构课程设计\奥运会\bin\Debug\奥运会.exe.config
+C:\Users\sfx\Desktop\数据结构课程设计\奥运会\bin\Debug\奥运会.exe
+C:\Users\sfx\Desktop\数据结构课程设计\奥运会\bin\Debug\奥运会.pdb
+C:\Users\sfx\Desktop\数据结构课程设计\奥运会\obj\Debug\奥运会.csprojAssemblyReference.cache
+C:\Users\sfx\Desktop\数据结构课程设计\奥运会\obj\Debug\奥运会.Form1.resources
+C:\Users\sfx\Desktop\数据结构课程设计\奥运会\obj\Debug\奥运会.Properties.Resources.resources
+C:\Users\sfx\Desktop\数据结构课程设计\奥运会\obj\Debug\奥运会.csproj.GenerateResource.cache
+C:\Users\sfx\Desktop\数据结构课程设计\奥运会\obj\Debug\奥运会.csproj.CoreCompileInputs.cache
+C:\Users\sfx\Desktop\数据结构课程设计\奥运会\obj\Debug\奥运会.exe
+C:\Users\sfx\Desktop\数据结构课程设计\奥运会\obj\Debug\奥运会.pdb
